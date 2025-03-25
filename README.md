@@ -150,14 +150,9 @@ CRYPTEX can be used as an educational tool to demonstrate:
 - For production-level security, consider using established encryption libraries that implement standards like AES, RSA, etc.
 - Always keep your encryption keys secure and never share them through insecure channels
 
-## 🔄 Version History
-
-- **2.0.0** - Major update with new encryption methods, file encryption support, and improved UI
-- **1.0.0** - Initial release with basic Caesar cipher functionality
-
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## 🔗 Links
 
